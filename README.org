@@ -1,0 +1,36 @@
+#+TITLE: org-cv
+#+DATE: August 2020
+#+OPTIONS: html-style:nil html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../main.css" />
+
+# mv ~/Dropbox/deft/hegel-links.html ~/Sites/matthewdelhey.com/inc
+# cd ~/matthewdelhey.com; git add ~/matthewdelhey.com/inc/hegel-links.html
+# git commit -m 'update hegel-links.html'; git push
+
+# https://plaintextproject.online/index.html
+
+* Overview 
+If you're tech-inclined, then you likely prefer to write your documents in plain text (for many reasons). In the tech-discilined humannties, however, documents are often expected to arive in Word's .docx format. CVs are no different. 
+
+After endless fidling with \LaTex CV templates, I ultimately begunringly settled on using Word for my CV. But this was unsatisfactory, too. 
+
+As far as I can tell, pandoc does not support styles for org-mode. So we convert from (i) org-mode to markdown and then (ii) from markdown to docx. 
+
+* Use 
+  #+BEGIN_SRC
+  pandoc -f org -t gfm test.org | pandoc -f markdown -t docx --reference-doc=./reference.docx -o test.docx
+  #+END_SRC
+
+  Using [[https://github.com/AlJohri/docx2pdf][docx2pdf]], we can invoke Word's own pdf conversion feature from the command line: 
+  #+BEGIN_SRC 
+  docx2pdf test.docx test.pdf
+  #+END_SRC
+
+  And Walah: we have a professional-looking academic CV generated from org-mode. 
+
+* Possible issues
+  #+BEGIN_SRC
+  sed -e 's_\\\[_\[_g' | sed -e 's_\\\]_\]_g'
+  #+END_SRC
+
+

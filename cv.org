@@ -1,0 +1,150 @@
+#+TITLE: Org-mode CV
+#+OPTIONS: \n:nil
+
+::: {custom-style="CV-Name"} \\
+Matthew J. Delhey \\
+:::
+
+::: {custom-style="CV-Info"} \\
+Department of Philosophy \\
+University of Toronto \\
+matt.delhey@mail.utoronto.ca \\
+http://matthewdelhey.com \\
+:::
+
+* Education
+  | Ph.D. | Philosophy, University of Toronto, Toronto, Canada (expected 2023)                              |
+  | M.A.  | Philosophy, Georgia State University, Atlanta, GA (2018)                                        |
+  |       | Thesis: /Machine Automation and the Critique of Abstract Labor in Hegel's Mature Social Theory/ |
+  |       | Committee: Sebastian Rand (Chair), Peter Lindsay, Calvin Thomas                                 |
+  | M.A.  | Statistics, Rice University, Houston, TX (2015)                                                 |
+  | B.A.  | Philosophy, Rice University, Houston, TX (2014)                                                 |
+
+* Areas of Research and Teaching 
+  - AOS: German Idealism (especially Hegel), Social and Political Philosophy
+  - AOC: Critical Theory, Digital Theory, Political Economy
+
+* Presentations
+** Refereed Conference Presentations
+  - "Hegel's Critique of Abstract Labor"
+    - 33rd International Hegel Congress of the Hegel Society: "Hegel and Freedom," University of Warsaw (5/2020, postponed until 2021)
+  - "The Priority of Reciprocity: The Development of the Categories in Schelling's /System of Transcendental Idealism/" 
+   - North American Schelling Society: "Schelling and Philosophies of Life," Toronto, Canada (5/2020, postponed until 2021)
+   - American Philosophical Association, Pacific Meeting, San Francisco, CA (4/2020, postponed until 2021)
+  - "Is Hegel's Hope for Machine Automation Consistent with His Social Theory?" 
+    - Graduate Student Philosophy Conference, Louisiana State University (4/2018) 
+
+** Invited Presentations
+  - "The Metaphysics of Experience: Schopenhauer, German Idealism, and the Legacy of Kant's Critical Philosophy" 
+    - Object One Conference, University of Toronto (8/2020)
+  - "Freud's /Civilization and Its Discontents/" 
+   - Invited course lecture for "Introduction to Continental Philosophy," University of Toronto (7/2019)
+
+** Comments
+  - On Frank Ruda, "The Art of Vacillation" 
+    - Workshop on Hegel and the End of Art, University of Toronto (2/2020)
+   - On Joshua Brecka, "Lewis Carroll on Reason" 
+     - Reconstructing Reason Conference, University of Toronto (11/2019)
+  - On Robert Stern, /The Radical Demand in Løgstrup's Ethics/ (Oxford University Press, 2019)
+    - Department of Philosophy Workshop, University of Toronto (9/2019)
+
+* Teaching
+** Instructor of Record
+   - Critical Thinking, Georgia State University (Summer 2017, Fall 2017, Spring 2018) 
+   - Introduction to University Studies, Georgia State University (Summer 2018)
+
+** Teaching Assistant
+   - Introduction to Continental Philosophy, University of Toronto, (Fall 2020, Summer 2019)
+   - 17th-and 18th-Century Philosophy, University of Toronto, (Summer 2020)
+   - Ancient Philosophy, University of Toronto (Fall/Spring 2019–2020)
+   - Law and Morality, University of Toronto (Spring 2019)
+   - Philosophy of Art (grading only), University of Toronto (Fall 2018)
+   - Introduction to Philosophy, Georgia State University (Summer 2018)
+   - Existentialism (grading only), Georgia State University (Fall 2017)
+   # - Linear Regression, Rice University (?)
+   # - Statistical Computing and Graphics, Rice University (2013--2014)
+
+* Academic Service
+  - Co-organizer, Dramaturgies of Resistance: Collectivity, Performance, Dialectics Event Series, Jackman Humanities Institute Program for the Arts (2020--2021)
+  # ($10,000 CAD Grant) 
+  - Co-organizer, Reconstructing Reason: Developing the Concept of Reason through History Conference, University of Toronto, Keynote speakers: Robert Brandom & Susan Haack (11/2019)
+  - Member, Graduate Executive Committee, University of Toronto (2018--2019)
+  - Graduate Research Assistant, Sebastian Rand, Georgia State University (Spring 2017)  
+  # - Dialectics Reading Group, Member, University of Toronto, 2019–2020
+  # - Digitality Reading Group, Organizer, University of Toronto, 2018–2019
+  # - /Phenomenology of Spirit/ Reading Group, Organizer, Georgia State University, 2018
+  # - Deleuze Reading Group, Member, 2016–2017
+  # - Music Director and 60’s show deejay, KTRU, Rice University, 2012–2015
+  # - Vice President, Philosophy Club, Rice University (2012--2014)
+
+* Awards and Fellowships 
+  - Doctoral Fellowship, University of Toronto (2018--2023)
+  - Kant and Post-Kantian German Philosophy Fellowship (awarded to one student per year), Georgia State University (2016--2018)
+#  - Certificate in Statistical Computing and Data Mining, Rice University, 2015
+  - Tsanoff Undergraduate Essay Prize, Rice University (2014)
+#  - Tsanoff essay prize, "Two Husserlian Objections to Quine's Naturalized Epistemology," Rice University (2014)
+#  - Tsanoff Undergraduate Essay Prize, "Two Husserlian Objections to Quine's Naturalized Epistemology," Rice University (2014)
+
+* Professional Associations :noexport:
+  - American Philosophical Association
+  - Society for Phenomenology and Existential Philosophy
+
+* Graduate Coursework 
+  (* = audit only) 
+
+** History of Modern Philosophy
+   - Early German Romanticism (Owen Ware)
+   - Spinoza's /Ethics/ (Karolina Hübner)
+   - Early Schelling (Owen Ware)
+   - Hegel's /Science of Logic/ (Sebastian Rand)
+   - Hegel's /Philosophy of Right/ (Sebastian Rand)
+   - Kant's Ethics (Eric Wilson)
+   - Seminar in Hegel (H. Tristram Engelhardt)
+
+** Social and Political Philosophy
+   - Naturalizing the Social Contract (Joesph Heath)
+   - Hobbes's Legal Theory (David Dyzenhaus)
+   - Contemporary Political Theory (Peter Lindsay)
+   - Rawls: What is Justice? (William Edmundson) 
+   - Social Contract Theories (Sandra Dwyer)
+
+** Continental Philosophy
+   - Dramaturgy of the Dialectic (Rebecca Comay)
+   - Philosophy and the University (Robert Gibbs)
+   - Benjamin's /Arcades Project/ (Rebecca Comay)
+   - Heidegger's /Being and Time/ (Sebastian Rand)
+   - Foundations of Critical Theory (Calvin Thomas)*
+   - Lacan on Love, Language, and Literature (Calvin Thomas)
+   - Delezue's /Difference and Repetition/ (Miguel Beistegui)*
+   # - Philosophy of Film (Richard Kearney & Murray Littlejohn)*
+   - Visual Culture (Robin Lydenberg)*
+
+** Contemporary Philosophy
+   - Semantic Relationism (Byeong-uk Yi)
+   - Laws of Nature (Jessica Wilson & Michael Miller)
+   - Values and Rules (Thomas Hurka & Brendan de Kenessey)
+   - Philosophy of Mind (Daniel Weiskopf)
+   - Symbolic Logic
+
+* Languages
+  - English (native), German (basic reading) 
+
+* Nonacademic Employment :noexport:
+  - Data Scientist, Trip Advisor, Boston, MA (2015--2016)
+		- Teams: Search Engine Marketing, Traffic Acquisition and Measurement
+	- Data Scientist Intern, Trip Advisor, Boston, MA (Summer 2013 & Summer 2014)
+		- Teams: Personalization, Revenue Optimization
+  
+* Technical Skills :noexport: 
+  - Big data analytics, statistical machine learning, database systems, experimental design, time series analysis
+  - Big Data Analytics, Machine Learning, Database System, Experimental Design, Time Series
+  - Languages: R, SQL, Python, Unix, Hive, C/C++, LaTeX, Tableau
+
+* Technical Research :noexport:
+  - MA Thesis: “Interactive Visualization Analytics: Application to Airport On-time Performance Data”, advised by Yeshaya Adler (co-authored with Frank Portman), 2015
+  - “High-dimensional VAR Inference with Application to Cooling Degree Day Data,” (co-authored with Sergii Babkin and Daniel Cross), advised by Katherine Ensor, Advanced Time Series, Rice University, 2015
+  - “Model Selection for High-Dimensional Gaussian Graphical Models,” 2015
+  - “Comparison of Linear, Quadratic, and Poisson Discriminant Analysis,” 2014
+  - “Extremely Randomized Trees: An Application in Galaxy Classification”, 2014
+
+
